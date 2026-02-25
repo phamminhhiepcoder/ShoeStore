@@ -1,0 +1,7 @@
+.address-card {
+    transition: all 0.2s ease;
+}
+
+.address-card:hover {
+    background: #f8f9fa;
+}

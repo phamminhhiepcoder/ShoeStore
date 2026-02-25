@@ -1,0 +1,19 @@
+.hero-slider {
+    width: 100%;
+    height: auto;
+}
+
+.hero-slider .swiper-slide {
+    width: 100%;
+}
+
+.hero-slider img {
+    width: 100%;
+    height: auto;        /* KHÔNG bị cắt ảnh */
+    display: block;      /* tránh khoảng trắng */
+}
+
+/* Khoảng cách với phần dưới */
+.colorlib-product {
+    margin-top: 40px;
+}
